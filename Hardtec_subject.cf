@@ -3,3 +3,24 @@ score           HARDTEC_SUBJECT1 15
 
 header          HARDTEC_SUBJECT2 Subject =~ /.*viagra.*/i
 score           HARDTEC_SUBJECT2 15
+
+header          HARDTEC_SUBJECT3 Subject =~ /.*PILARES DO ATENDIMENTO AO CLIENTE.*/i
+score           HARDTEC_SUBJECT3 15
+
+header          HARDTEC_SUBJECT4 Subject =~ /.*ideias lucrativas para Agricultura Familiar.*/i
+score           HARDTEC_SUBJECT4 15
+
+header          HARDTEC_SUBJECT5 Subject =~ /.*Al[ô,o] Sa[ú,u]de.*/i
+score           HARDTEC_SUBJECT5 15
+
+header          HARDTEC_SUBJECT6 Subject =~ /.*Psic[ó,o]logo Online.*/i
+score           HARDTEC_SUBJECT6 15
+
+header          HARDTEC_SUBJECT7 Subject =~ /.*Precis[a,o] da Sua Atencao.*/i
+score           HARDTEC_SUBJECT7 15
+
+header          HARDTEC_SUBJECT8 Subject =~ /.*Armazenamento Adicional \| CHAMADO.*/i
+score           HARDTEC_SUBJECT8 15
+
+header          HARDTEC_SUBJECT8 Subject =~ /.*Armazenamento Adicional \| CHAMADO.*/i
+score           HARDTEC_SUBJECT8 15
