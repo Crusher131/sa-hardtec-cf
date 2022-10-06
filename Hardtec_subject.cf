@@ -22,5 +22,35 @@ score           HARDTEC_SUBJECT7 15
 header          HARDTEC_SUBJECT8 Subject =~ /.*Armazenamento Adicional \| CHAMADO.*/i
 score           HARDTEC_SUBJECT8 15
 
-header          HARDTEC_SUBJECT8 Subject =~ /.*Armazenamento Adicional \| CHAMADO.*/i
-score           HARDTEC_SUBJECT8 15
+header          HARDTEC_SUBJECT9 Subject =~ /.*Sua Conta Foi Suspensa-ID.*/i
+score           HARDTEC_SUBJECT9 15
+
+header          HARDTEC_SUBJECT10 Subject =~ /.*Simule agora o valor para o seu Plano PME/Empresarial BRADESCO SA[Ú,u]DE.*/i
+score           HARDTEC_SUBJECT10 15
+
+header          HARDTEC_SUBJECT11 Subject =~ /.*Simule agora, Desconto para Empresas. Reduç[ã,a]o de Car[ê,e]ncias, Desconto em Farm[á,a]cias e mais.*/i
+score           HARDTEC_SUBJECT11 15
+
+header          HARDTEC_SUBJECT12 Subject =~ /.*SIMULADOR BRADESCO SA[Ú,u]DE.*/i
+score           HARDTEC_SUBJECT12 15
+
+header          HARDTEC_SUBJECT13 Subject =~ /.*Seus E-Mails Serao Removidos \| CHAMADO.*/i
+score           HARDTEC_SUBJECT13 15
+
+header          HARDTEC_SUBJECT14 Subject =~ /.*Sa[ú,u]de em perfil.*Medida.*/i
+score           HARDTEC_SUBJECT14 15
+
+header          HARDTEC_SUBJECT15 Subject =~ /.*Sa[ú,u]de Modalidade Empresarial, Custo Reduzido e Abrang[ê,e]ncia Nacional.*/i
+score           HARDTEC_SUBJECT15 15
+
+header          HARDTEC_SUBJECT16 Subject =~ /.*porto.*PME-Empresarial.*/i
+score           HARDTEC_SUBJECT16 15
+
+header          HARDTEC_SUBJECT17 Subject =~ /.*PME-Empresarial.*porto.*/i
+score           HARDTEC_SUBJECT17 15
+
+header          HARDTEC_SUBJECT18 Subject =~ /.*PME-empresarial.*PTS.*/i
+score           HARDTEC_SUBJECT18 15
+
+header          HARDTEC_SUBJECT19 Subject =~ /.*Planos M[é,e]dicos Economicos para EMPRESAS\/PME.*/i
+score           HARDTEC_SUBJECT19 15
