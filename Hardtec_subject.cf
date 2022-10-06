@@ -1,0 +1,5 @@
+header          HARDTEC_SUBJECT1 Subject =~ /.*o armazenamento de sua caixa postal est[a,á] quase cheio.*/i
+score           HARDTEC_SUBJECT1 15
+
+header          HARDTEC_SUBJECT2 Subject =~ /.*viagra.*/i
+score           HARDTEC_SUBJECT2 15
