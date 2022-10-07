@@ -1,429 +1,429 @@
 
-header          HARDTEC_SUBJECT1 From =~ /.*ocidentalcobrancas\.store.*/
-score           HARDTEC_SUBJECT1 15
+header          HARDTEC_FROM1 From =~ /.*ocidentalcobrancas\.store.*/
+score           HARDTEC_FROM1 15
 
-header          HARDTEC_SUBJECT2 From =~ /.*originalfilter\.com.*/
-score           HARDTEC_SUBJECT2 15
+header          HARDTEC_FROM2 From =~ /.*originalfilter\.com.*/
+score           HARDTEC_FROM2 15
 
-header          HARDTEC_SUBJECT3 From =~ /.*rockcontent\.com.*/
-score           HARDTEC_SUBJECT3 15
+header          HARDTEC_FROM3 From =~ /.*rockcontent\.com.*/
+score           HARDTEC_FROM3 15
 
-header          HARDTEC_SUBJECT4 From =~ /.*seg\-saudepme\.com\.br.*/
-score           HARDTEC_SUBJECT4 15
+header          HARDTEC_FROM4 From =~ /.*seg\-saudepme\.com\.br.*/
+score           HARDTEC_FROM4 15
 
-header          HARDTEC_SUBJECT5 From =~ /.*servicosfcporto\.com.*/
-score           HARDTEC_SUBJECT5 15
+header          HARDTEC_FROM5 From =~ /.*servicosfcporto\.com.*/
+score           HARDTEC_FROM5 15
 
-header          HARDTEC_SUBJECT6 From =~ /.*sirdexs\.com.*/
-score           HARDTEC_SUBJECT6 15
+header          HARDTEC_FROM6 From =~ /.*sirdexs\.com.*/
+score           HARDTEC_FROM6 15
 
-header          HARDTEC_SUBJECT7 From =~ /.*sjwlpo\.bhz\.br.*/
-score           HARDTEC_SUBJECT7 15
+header          HARDTEC_FROM7 From =~ /.*sjwlpo\.bhz\.br.*/
+score           HARDTEC_FROM7 15
 
-header          HARDTEC_SUBJECT8 From =~ /.*svsaude\.poa\.br.*/
-score           HARDTEC_SUBJECT8 15
+header          HARDTEC_FROM8 From =~ /.*svsaude\.poa\.br.*/
+score           HARDTEC_FROM8 15
 
-header          HARDTEC_SUBJECT9 From =~ /.*syspro\.inf\.br.*/
-score           HARDTEC_SUBJECT9 15
+header          HARDTEC_FROM9 From =~ /.*syspro\.inf\.br.*/
+score           HARDTEC_FROM9 15
 
-header          HARDTEC_SUBJECT10 From =~ /.*ticketscongressos\.com\.br.*/
-score           HARDTEC_SUBJECT10 15
+header          HARDTEC_FROM10 From =~ /.*ticketscongressos\.com\.br.*/
+score           HARDTEC_FROM10 15
 
-header          HARDTEC_SUBJECT11 From =~ /.*tudonoticia\.poa\.br.*/
-score           HARDTEC_SUBJECT11 15
+header          HARDTEC_FROM11 From =~ /.*tudonoticia\.poa\.br.*/
+score           HARDTEC_FROM11 15
 
-header          HARDTEC_SUBJECT12 From =~ /.*un1quefootball\.com\.br.*/
-score           HARDTEC_SUBJECT12 15
+header          HARDTEC_FROM12 From =~ /.*un1quefootball\.com\.br.*/
+score           HARDTEC_FROM12 15
 
-header          HARDTEC_SUBJECT13 From =~ /.*vidasaudavelprodutos\.com.*/
-score           HARDTEC_SUBJECT13 15
+header          HARDTEC_FROM13 From =~ /.*vidasaudavelprodutos\.com.*/
+score           HARDTEC_FROM13 15
 
-header          HARDTEC_SUBJECT14 From =~ /.*w7veiculos\.com\.br.*/
-score           HARDTEC_SUBJECT14 15
+header          HARDTEC_FROM14 From =~ /.*w7veiculos\.com\.br.*/
+score           HARDTEC_FROM14 15
 
-header          HARDTEC_SUBJECT15 From =~ /.*xaguat\.com.*/
-score           HARDTEC_SUBJECT15 15
+header          HARDTEC_FROM15 From =~ /.*xaguat\.com.*/
+score           HARDTEC_FROM15 15
 
-header          HARDTEC_SUBJECT16 From =~ /.*ip([0-9]{3}|[0-9]{2}|[0-9]{1})\.ip\-([0-9]{3}|[0-9]{2}|[0-9]{1})\-([0-9]{3}|[0-9]{2}|[0-9]{1})\-([0-9]{3}|[0-9]{2}|[0-9]{1})\.(us|net).*/
-score           HARDTEC_SUBJECT16 15
+header          HARDTEC_FROM16 From =~ /.*ip([0-9]{3}|[0-9]{2}|[0-9]{1})\.ip\-([0-9]{3}|[0-9]{2}|[0-9]{1})\-([0-9]{3}|[0-9]{2}|[0-9]{1})\-([0-9]{3}|[0-9]{2}|[0-9]{1})\.(us|net).*/
+score           HARDTEC_FROM16 15
 
-header          HARDTEC_SUBJECT17 From =~ /.*weboferta\.srv\.br.*/
-score           HARDTEC_SUBJECT17 15
+header          HARDTEC_FROM17 From =~ /.*weboferta\.srv\.br.*/
+score           HARDTEC_FROM17 15
 
-header          HARDTEC_SUBJECT18 From =~ /.*ferroarteexaustores\.com\.br.*/
-score           HARDTEC_SUBJECT18 15
+header          HARDTEC_FROM18 From =~ /.*ferroarteexaustores\.com\.br.*/
+score           HARDTEC_FROM18 15
 
-header          HARDTEC_SUBJECT19 From =~ /.*boletim\-saude.*/
-score           HARDTEC_SUBJECT19 15
+header          HARDTEC_FROM19 From =~ /.*boletim\-saude.*/
+score           HARDTEC_FROM19 15
 
-header          HARDTEC_SUBJECT20 From =~ /.*boletimdigital\.c.m.*/
-score           HARDTEC_SUBJECT20 15
+header          HARDTEC_FROM20 From =~ /.*boletimdigital\.c.m.*/
+score           HARDTEC_FROM20 15
 
-header          HARDTEC_SUBJECT21 From =~ /.*chuvaurbana.*/
-score           HARDTEC_SUBJECT21 15
+header          HARDTEC_FROM21 From =~ /.*chuvaurbana.*/
+score           HARDTEC_FROM21 15
 
-header          HARDTEC_SUBJECT22 From =~ /.*\@(cabinetfiscal\.photos|sjvcrtd\.bhz\.br|rastreamentocorreiosbr\.cloud|pedidorastreado\.cloud|net.*titan\.co|appjuridico.*\.email|brjuridico.*\.email|centermarketing\.info|compraotimaja\.com\.br|rastreamentoviamail\.cloud|demandaonline.*\.email|dicaporemail\.poa\.br|digiofertas\.net\.br|gazetapr\.poa\.br|juridicocerto.*\.email|meganoticia\.poa\.br|m\.lincogix\.com|novidadesemanal\.poa\.br|ofertamidia\.com\.br|prinks\.com\.br|servidor52\.com\.br|shownaweb\.com\.br|soja\.we\.bs|spdicas\.poa\.br|top10nanet\.com\.brtopdica\.net\.br|vendastop10\.com\.br|vendersites\.com|vitoriacompleta\.com\.br|webtop10\.com\.br).*/
-score           HARDTEC_SUBJECT22 15
+header          HARDTEC_FROM22 From =~ /.*\@(cabinetfiscal\.photos|sjvcrtd\.bhz\.br|rastreamentocorreiosbr\.cloud|pedidorastreado\.cloud|net.*titan\.co|appjuridico.*\.email|brjuridico.*\.email|centermarketing\.info|compraotimaja\.com\.br|rastreamentoviamail\.cloud|demandaonline.*\.email|dicaporemail\.poa\.br|digiofertas\.net\.br|gazetapr\.poa\.br|juridicocerto.*\.email|meganoticia\.poa\.br|m\.lincogix\.com|novidadesemanal\.poa\.br|ofertamidia\.com\.br|prinks\.com\.br|servidor52\.com\.br|shownaweb\.com\.br|soja\.we\.bs|spdicas\.poa\.br|top10nanet\.com\.brtopdica\.net\.br|vendastop10\.com\.br|vendersites\.com|vitoriacompleta\.com\.br|webtop10\.com\.br).*/
+score           HARDTEC_FROM22 15
 
-header          HARDTEC_SUBJECT23 From =~ /.*@(portalbemsucedido\.com\.br|pendentecef06\.mywire\.org|rjflix\.co|sjbrstd\.bhz\.br|sjavrtd\.bhz\.br|presentevencedor\.com\.br|mywire\.org|acessoinadiplencia\.institute|entregadordecampanhas\.net).*/
-score           HARDTEC_SUBJECT23 15
+header          HARDTEC_FROM23 From =~ /.*@(portalbemsucedido\.com\.br|pendentecef06\.mywire\.org|rjflix\.co|sjbrstd\.bhz\.br|sjavrtd\.bhz\.br|presentevencedor\.com\.br|mywire\.org|acessoinadiplencia\.institute|entregadordecampanhas\.net).*/
+score           HARDTEC_FROM23 15
 
-header          HARDTEC_SUBJECT24 From =~ /.*@(\.*\.institute|brasilcomercio\.poa\.br|presentevencedor\.com\.br|bankit\.com\.br|portalsp\.poa\.br|ticketsforbusiness\.com\.br|tagmedia\.com\.br|mmcurso\.co|presentevencedor\.com\.br|setorweb.*\.co|viabr.*\.co|setorweb.*\.co|top10nanet\.com\.br|rjflix\.co|spflix\.co|viabr.*\.co|juridicos.*\.email).*/
-score           HARDTEC_SUBJECT24 15
+header          HARDTEC_FROM24 From =~ /.*@(\.*\.institute|brasilcomercio\.poa\.br|presentevencedor\.com\.br|bankit\.com\.br|portalsp\.poa\.br|ticketsforbusiness\.com\.br|tagmedia\.com\.br|mmcurso\.co|presentevencedor\.com\.br|setorweb.*\.co|viabr.*\.co|setorweb.*\.co|top10nanet\.com\.br|rjflix\.co|spflix\.co|viabr.*\.co|juridicos.*\.email).*/
+score           HARDTEC_FROM24 15
 
-header          HARDTEC_SUBJECT25 From =~ /.*@(st\.jus\.br|menorcasa\.com|grupoexpansao\.com|ulianr\.com|genial\.rio\.br|melhordomercado\.live|redecerta\.com\.br|ccng\-inc\.com|aproveitetudo\.com\.br|seuemailchegou\.com\.br|packway\.com\.br|midialead\.com\.br|fenixpub\.com\.br|destaquesemanal\.rio\.br|sorteparavoce\.com\.br|bhz\.br).*/
-score           HARDTEC_SUBJECT25 15
+header          HARDTEC_FROM25 From =~ /.*@(st\.jus\.br|menorcasa\.com|grupoexpansao\.com|ulianr\.com|genial\.rio\.br|melhordomercado\.live|redecerta\.com\.br|ccng\-inc\.com|aproveitetudo\.com\.br|seuemailchegou\.com\.br|packway\.com\.br|midialead\.com\.br|fenixpub\.com\.br|destaquesemanal\.rio\.br|sorteparavoce\.com\.br|bhz\.br).*/
+score           HARDTEC_FROM25 15
 
-header          HARDTEC_SUBJECT26 From =~ /.*<.*@.*>.*<.*@.*>.*/
-score           HARDTEC_SUBJECT26 15
+header          HARDTEC_FROM26 From =~ /.*<.*@.*>.*<.*@.*>.*/
+score           HARDTEC_FROM26 15
 
-header          HARDTEC_SUBJECT27 From =~ /.*@(cursomm\.com|brjuridico.*\.email|juridicocerto.*\.email|comprovaum\.co|demandaonline.*\.email|brasiloportunidade\.com\.br|demandaonline.*\.email|alertanovidade\.poa\.br|demandaonline.*\.email|atendimento.*\.adebager\.io|demandaonline.*\.email|intergenius\.com\.br|.*diretorioemails\.institute|queroacertarja\.com\.br|digitaloferta\.com\.br)/
-score           HARDTEC_SUBJECT27 15
+header          HARDTEC_FROM27 From =~ /.*@(cursomm\.com|brjuridico.*\.email|juridicocerto.*\.email|comprovaum\.co|demandaonline.*\.email|brasiloportunidade\.com\.br|demandaonline.*\.email|alertanovidade\.poa\.br|demandaonline.*\.email|atendimento.*\.adebager\.io|demandaonline.*\.email|intergenius\.com\.br|.*diretorioemails\.institute|queroacertarja\.com\.br|digitaloferta\.com\.br)/
+score           HARDTEC_FROM27 15
 
-header          HARDTEC_SUBJECT28 From =~ /.*(rastreamentopedidos\.cloud|enviodepedidos\.cloud|administrativobest\.cloud).*/
-score           HARDTEC_SUBJECT28 15
+header          HARDTEC_FROM28 From =~ /.*(rastreamentopedidos\.cloud|enviodepedidos\.cloud|administrativobest\.cloud).*/
+score           HARDTEC_FROM28 15
 
-header          HARDTEC_SUBJECT29 From =~ /.*(combatemidia\.we\.bs|theeagle\.we\.bs|acheioqpreciso\.we\.bs|bally\.com\.br|bankit\.com\.br|bristol\.we\.bs|bubka\.com\.br|clameaqui\.com\.de|coibach\.com\.br|desenhandosaude\.we\.bs|fiyounet\.we\.bs|forblack\.we\.bs|forpumpp\.we\.bs|forpump\.we\.bs|gelfull\.com\.de|geradordeleads\.we\.bs|inbound\-reply\.mareabomba\.we\.bs|intergenius\.com\.br|invisible\.we\.bs|manutencaosaude\.we\.bs|mastepower\.we\.bs|midiah.*colher\.we\.bs|mmleadz\.com\.br|monefull\.com\.de|movtit\.we\.bs|nabuscamilagre\.we\.bs|net2phone\.com\.de|opered\.com\.br|packway\.com\.br|pedidodigital\.we\.bs|pegaabomba\.we\.bs|pmebr\.com\.br|prinks\.com\.br|procurandopreco\.we\.bs|reindexa\.com\.br|resgate\.we\.bs|sao\.we\.bs|seg\-saudepme\.com\.br|shownaweb\.com\.br|skfwind\.we\.bs|stormside\.com\.br|stumpf\.we\.bs|summerbox\.com\.br|telefonicassaude\.we\.bs|terracloud\.we\.bs|tixell\.com\.br|top10emvendas\.com\.br|top10nanet\.com\.br|valvuladesaude\.we\.bs|vendassaudeonline\.we\.bs|vendastop.*\.com\.br|webtop.*\.com\.br).*/i
-score           HARDTEC_SUBJECT29 15
+header          HARDTEC_FROM29 From =~ /.*(combatemidia\.we\.bs|theeagle\.we\.bs|acheioqpreciso\.we\.bs|bally\.com\.br|bankit\.com\.br|bristol\.we\.bs|bubka\.com\.br|clameaqui\.com\.de|coibach\.com\.br|desenhandosaude\.we\.bs|fiyounet\.we\.bs|forblack\.we\.bs|forpumpp\.we\.bs|forpump\.we\.bs|gelfull\.com\.de|geradordeleads\.we\.bs|inbound\-reply\.mareabomba\.we\.bs|intergenius\.com\.br|invisible\.we\.bs|manutencaosaude\.we\.bs|mastepower\.we\.bs|midiah.*colher\.we\.bs|mmleadz\.com\.br|monefull\.com\.de|movtit\.we\.bs|nabuscamilagre\.we\.bs|net2phone\.com\.de|opered\.com\.br|packway\.com\.br|pedidodigital\.we\.bs|pegaabomba\.we\.bs|pmebr\.com\.br|prinks\.com\.br|procurandopreco\.we\.bs|reindexa\.com\.br|resgate\.we\.bs|sao\.we\.bs|seg\-saudepme\.com\.br|shownaweb\.com\.br|skfwind\.we\.bs|stormside\.com\.br|stumpf\.we\.bs|summerbox\.com\.br|telefonicassaude\.we\.bs|terracloud\.we\.bs|tixell\.com\.br|top10emvendas\.com\.br|top10nanet\.com\.br|valvuladesaude\.we\.bs|vendassaudeonline\.we\.bs|vendastop.*\.com\.br|webtop.*\.com\.br).*/i
+score           HARDTEC_FROM29 15
 
-header          HARDTEC_SUBJECT30 From =~ /.*saude\.us$/
-score           HARDTEC_SUBJECT30 15
+header          HARDTEC_FROM30 From =~ /.*saude\.us$/
+score           HARDTEC_FROM30 15
 
-header          HARDTEC_SUBJECT31 From =~ /(saude-|-saude).*/
-score           HARDTEC_SUBJECT31 15
+header          HARDTEC_FROM31 From =~ /(saude-|-saude).*/
+score           HARDTEC_FROM31 15
 
-header          HARDTEC_SUBJECT32 From =~ /.*barato.*/
-score	        HARDTEC_SUBJECT32 7
+header          HARDTEC_FROM32 From =~ /.*barato.*/
+score	        HARDTEC_FROM32 7
 
-header      	HARDTEC_SUBJECT33 From =~ /.*posgraduacao.*/
-score       	HARDTEC_SUBJECT33 15
+header      	HARDTEC_FROM33 From =~ /.*posgraduacao.*/
+score       	HARDTEC_FROM33 15
 	
-header      	HARDTEC_SUBJECT34 From =~ /cartaovirtual/
-score       	HARDTEC_SUBJECT34 7
+header      	HARDTEC_FROM34 From =~ /cartaovirtual/
+score       	HARDTEC_FROM34 7
 
-header      	HARDTEC_SUBJECT35 From =~ /produtora\.net\.br/
-score       	HARDTEC_SUBJECT35 15
+header      	HARDTEC_FROM35 From =~ /produtora\.net\.br/
+score       	HARDTEC_FROM35 15
 
-header      	HARDTEC_SUBJECT36 From =~ /.*(\.xyz|\.top|\.fun).*/
-score	        HARDTEC_SUBJECT36 15
+header      	HARDTEC_FROM36 From =~ /.*(\.xyz|\.top|\.fun).*/
+score	        HARDTEC_FROM36 15
 
-header      	HARDTEC_SUBJECT37 From =~ /.*responser.*\.com\.br/
-score       	HARDTEC_SUBJECT37 15
+header      	HARDTEC_FROM37 From =~ /.*responser.*\.com\.br/
+score       	HARDTEC_FROM37 15
 
-header      	HARDTEC_SUBJECT38	From =~	/.*leads.*/
-score       	HARDTEC_SUBJECT38	15
+header      	HARDTEC_FROM38	From =~	/.*leads.*/
+score       	HARDTEC_FROM38	15
 
-header	        HARDTEC_SUBJECT39 From =~ /.*coteplano.*/
-score	        HARDTEC_SUBJECT39	15
+header	        HARDTEC_FROM39 From =~ /.*coteplano.*/
+score	        HARDTEC_FROM39	15
 
-header          HARDTEC_SUBJECT40 From =~ /.*\.mobi.*/
-score           HARDTEC_SUBJECT40 15
+header          HARDTEC_FROM40 From =~ /.*\.mobi.*/
+score           HARDTEC_FROM40 15
 
-header          HARDTEC_SUBJECT41 From =~ /.*(belbl|bmasts|comaste|ingblac|scortckyn).*/
-score           HARDTEC_SUBJECT41 15
+header          HARDTEC_FROM41 From =~ /.*(belbl|bmasts|comaste|ingblac|scortckyn).*/
+score           HARDTEC_FROM41 15
 
-header          HARDTEC_SUBJECT42 From =~ /.*\.we\.bs.*/
-score           HARDTEC_SUBJECT42 15
+header          HARDTEC_FROM42 From =~ /.*\.we\.bs.*/
+score           HARDTEC_FROM42 15
 
-header          HARDTEC_SUBJECT43 From =~ /.*mtafunil\.co.*/
-score           HARDTEC_SUBJECT43 15
+header          HARDTEC_FROM43 From =~ /.*mtafunil\.co.*/
+score           HARDTEC_FROM43 15
 
-header          HARDTEC_SUBJECT44 From =~ /.*comerciolegais\.com.*/
-score           HARDTEC_SUBJECT44 15
+header          HARDTEC_FROM44 From =~ /.*comerciolegais\.com.*/
+score           HARDTEC_FROM44 15
 
-header          HARDTEC_SUBJECT45 From =~ /.*assessoriajud\.com.*/
-score           HARDTEC_SUBJECT45 15
+header          HARDTEC_FROM45 From =~ /.*assessoriajud\.com.*/
+score           HARDTEC_FROM45 15
 
-header          HARDTEC_SUBJECT46 From =~ /(belbl|comaste|ingblac|merciom|mexfina|scortckyn|terwebs|asklolx)/
-score           HARDTEC_SUBJECT46 15
+header          HARDTEC_FROM46 From =~ /(belbl|comaste|ingblac|merciom|mexfina|scortckyn|terwebs|asklolx)/
+score           HARDTEC_FROM46 15
 
-header          HARDTEC_SUBJECT47 From =~ /.*(hostwindsdns\.com|dnsabr\.com)/
-score           HARDTEC_SUBJECT47 15
+header          HARDTEC_FROM47 From =~ /.*(hostwindsdns\.com|dnsabr\.com)/
+score           HARDTEC_FROM47 15
 
-header          HARDTEC_SUBJECT48 From =~ /(.*vennus\.com\.br|.*msgvendas.com)/
-score           HARDTEC_SUBJECT48 15
+header          HARDTEC_FROM48 From =~ /(.*vennus\.com\.br|.*msgvendas.com)/
+score           HARDTEC_FROM48 15
 
-header          HARDTEC_SUBJECT49 From =~ /.*produtosimperdiveis.*\.com\.br/
-score           HARDTEC_SUBJECT49 15
+header          HARDTEC_FROM49 From =~ /.*produtosimperdiveis.*\.com\.br/
+score           HARDTEC_FROM49 15
 
-header          HARDTEC_SUBJECT50 From =~ /incrivelpravoce.*\.com\.br/i
-score           HARDTEC_SUBJECT50 15
+header          HARDTEC_FROM50 From =~ /incrivelpravoce.*\.com\.br/i
+score           HARDTEC_FROM50 15
 
-header          HARDTEC_SUBJECT51 From =~ /.*\.platinumassessoria\.com\.de/
-score           HARDTEC_SUBJECT51 15
+header          HARDTEC_FROM51 From =~ /.*\.platinumassessoria\.com\.de/
+score           HARDTEC_FROM51 15
 
-header          HARDTEC_SUBJECT52 From =~ /.*\.companybrasilconsultoria\.de/
-score           HARDTEC_SUBJECT52 15
+header          HARDTEC_FROM52 From =~ /.*\.companybrasilconsultoria\.de/
+score           HARDTEC_FROM52 15
 
-header          HARDTEC_SUBJECT53 From =~ /.*@.*\.cc/
-score           HARDTEC_SUBJECT53 15
+header          HARDTEC_FROM53 From =~ /.*@.*\.cc/
+score           HARDTEC_FROM53 15
 
-header          HARDTEC_SUBJECT54 From =~ /\@coletaindustrial.*\.co/
-score           HARDTEC_SUBJECT54 15
+header          HARDTEC_FROM54 From =~ /\@coletaindustrial.*\.co/
+score           HARDTEC_FROM54 15
 
-header          HARDTEC_SUBJECT55 From =~ /.*descontosaude.*/
-score           HARDTEC_SUBJECT55 15
+header          HARDTEC_FROM55 From =~ /.*descontosaude.*/
+score           HARDTEC_FROM55 15
 
-header          HARDTEC_SUBJECT56 From =~ /.*administradores\.com\.de/
-score           HARDTEC_SUBJECT56 15
+header          HARDTEC_FROM56 From =~ /.*administradores\.com\.de/
+score           HARDTEC_FROM56 15
 
-header          HARDTEC_SUBJECT57 From =~ /.*\@fisc.*\.direitos\-autorais\.de/
-score           HARDTEC_SUBJECT57 15
+header          HARDTEC_FROM57 From =~ /.*\@fisc.*\.direitos\-autorais\.de/
+score           HARDTEC_FROM57 15
 
-header          HARDTEC_SUBJECT58 From =~ /.*acoplasmainox\.com\.br/
-score           HARDTEC_SUBJECT58 15
+header          HARDTEC_FROM58 From =~ /.*acoplasmainox\.com\.br/
+score           HARDTEC_FROM58 15
 
-header          HARDTEC_SUBJECT59 From =~ /.*asklolx\.com/
-score           HARDTEC_SUBJECT59 15
+header          HARDTEC_FROM59 From =~ /.*asklolx\.com/
+score           HARDTEC_FROM59 15
 
-header          HARDTEC_SUBJECT60 From =~ /.*(diaincrivel\.com\.br|facilparavoce\.com\.br|hojequero\.com\.br|olhonoresultado\.com\.br|praticodisparo\.com\.br|suachanceaqui\.com\.br|trabalhoperfeito\.com\.br).*/
-score           HARDTEC_SUBJECT60 15
+header          HARDTEC_FROM60 From =~ /.*(diaincrivel\.com\.br|facilparavoce\.com\.br|hojequero\.com\.br|olhonoresultado\.com\.br|praticodisparo\.com\.br|suachanceaqui\.com\.br|trabalhoperfeito\.com\.br).*/
+score           HARDTEC_FROM60 15
 
-header          HARDTEC_SUBJECT61 From =~ /.*dm[0-9]?[0-9]?\.com\.br/
-score           HARDTEC_SUBJECT61 15
+header          HARDTEC_FROM61 From =~ /.*dm[0-9]?[0-9]?\.com\.br/
+score           HARDTEC_FROM61 15
 
-header          HARDTEC_SUBJECT62 From =~ /.*premiumail\.com\.br/
-score           HARDTEC_SUBJECT62 15
+header          HARDTEC_FROM62 From =~ /.*premiumail\.com\.br/
+score           HARDTEC_FROM62 15
 
-header          HARDTEC_SUBJECT63 From =~ /.*saudeweb.*/
-score           HARDTEC_SUBJECT63 15
+header          HARDTEC_FROM63 From =~ /.*saudeweb.*/
+score           HARDTEC_FROM63 15
 
-header          HARDTEC_SUBJECT64 From =~ /.*\.co$/
-score           HARDTEC_SUBJECT64 15
+header          HARDTEC_FROM64 From =~ /.*\.co$/
+score           HARDTEC_FROM64 15
 
-header          HARDTEC_SUBJECT65 From =~ /\@vendapelowhats\.co/
-score           HARDTEC_SUBJECT65 15
+header          HARDTEC_FROM65 From =~ /\@vendapelowhats\.co/
+score           HARDTEC_FROM65 15
 
-header          HARDTEC_SUBJECT66 From =~ /(portaltributario\.com\.de|administradores\.com\.de)/
-score           HARDTEC_SUBJECT66 15
+header          HARDTEC_FROM66 From =~ /(portaltributario\.com\.de|administradores\.com\.de)/
+score           HARDTEC_FROM66 15
 
-header          HARDTEC_SUBJECT67 From =~ /\.ww.*\.tech/
-score           HARDTEC_SUBJECT67 15
+header          HARDTEC_FROM67 From =~ /\.ww.*\.tech/
+score           HARDTEC_FROM67 15
 
-header          HARDTEC_SUBJECT68 From =~ /brazilshow\.com\.br/
-score           HARDTEC_SUBJECT68 15
+header          HARDTEC_FROM68 From =~ /brazilshow\.com\.br/
+score           HARDTEC_FROM68 15
 
-header          HARDTEC_SUBJECT69 From =~ /.*puregui\.be/
-score           HARDTEC_SUBJECT69 15
+header          HARDTEC_FROM69 From =~ /.*puregui\.be/
+score           HARDTEC_FROM69 15
 
-header          HARDTEC_SUBJECT70 From =~ /.*chegouu\.com\.br/
-score           HARDTEC_SUBJECT70 15
+header          HARDTEC_FROM70 From =~ /.*chegouu\.com\.br/
+score           HARDTEC_FROM70 15
 
-header          HARDTEC_SUBJECT71 From =~ /.*houseadministrativo\.com\.de/
-score           HARDTEC_SUBJECT71 15
+header          HARDTEC_FROM71 From =~ /.*houseadministrativo\.com\.de/
+score           HARDTEC_FROM71 15
 
-header          HARDTEC_SUBJECT72 From =~ /.*prostatghshgas\.us/
-score           HARDTEC_SUBJECT72 15
+header          HARDTEC_FROM72 From =~ /.*prostatghshgas\.us/
+score           HARDTEC_FROM72 15
 
-header          HARDTEC_SUBJECT73 From =~ /.*(cote|loca|desconto)saude\.co.*/
-score           HARDTEC_SUBJECT73 15
+header          HARDTEC_FROM73 From =~ /.*(cote|loca|desconto)saude\.co.*/
+score           HARDTEC_FROM73 15
 
-header          HARDTEC_SUBJECT74 From =~ /.*(bielapar\.com\.br|bristol\.we\.bs|canaldeoleo\.com\.br|clameaqui\.we\.bs|desenhandosaude\.we\.bs|ereats\.com\.br|monefull\.we\.bs|stumpf\.we\.bs|supernardelli\.com\.br|terracloud\.we\.bs)/
-score           HARDTEC_SUBJECT74 15
+header          HARDTEC_FROM74 From =~ /.*(bielapar\.com\.br|bristol\.we\.bs|canaldeoleo\.com\.br|clameaqui\.we\.bs|desenhandosaude\.we\.bs|ereats\.com\.br|monefull\.we\.bs|stumpf\.we\.bs|supernardelli\.com\.br|terracloud\.we\.bs)/
+score           HARDTEC_FROM74 15
 
-header          HARDTEC_SUBJECT75 From =~ /.*(divulgacao\.actor|syspro\.inf\.br|ultra\.expert).*/
-score           HARDTEC_SUBJECT75 15
+header          HARDTEC_FROM75 From =~ /.*(divulgacao\.actor|syspro\.inf\.br|ultra\.expert).*/
+score           HARDTEC_FROM75 15
 
-header          HARDTEC_SUBJECT76 From =~ /.*bally\.com\.br.*/
-score           HARDTEC_SUBJECT76 15
+header          HARDTEC_FROM76 From =~ /.*bally\.com\.br.*/
+score           HARDTEC_FROM76 15
 
-header          HARDTEC_SUBJECT77 From =~ /.*inovamarketing\.net\.br.*/
-score           HARDTEC_SUBJECT77 15
+header          HARDTEC_FROM77 From =~ /.*inovamarketing\.net\.br.*/
+score           HARDTEC_FROM77 15
 
-header          HARDTEC_SUBJECT78 From =~ /.*terranoticia\.com\.br/
-score           HARDTEC_SUBJECT78 15
+header          HARDTEC_FROM78 From =~ /.*terranoticia\.com\.br/
+score           HARDTEC_FROM78 15
 
-header          HARDTEC_SUBJECT79 From =~ /.*amostra\.rio\.br.*/
-score           HARDTEC_SUBJECT79 15
+header          HARDTEC_FROM79 From =~ /.*amostra\.rio\.br.*/
+score           HARDTEC_FROM79 15
 
-header          HARDTEC_SUBJECT80 From =~ /.*rjnovidade\.com\.br/
-score           HARDTEC_SUBJECT80 15
+header          HARDTEC_FROM80 From =~ /.*rjnovidade\.com\.br/
+score           HARDTEC_FROM80 15
 
-header          HARDTEC_SUBJECT81 From =~ /.*voce\.poa\.br/
-score           HARDTEC_SUBJECT81 15
+header          HARDTEC_FROM81 From =~ /.*voce\.poa\.br/
+score           HARDTEC_FROM81 15
 
-header          HARDTEC_SUBJECT82 From =~ /.*renovacnh\.com\.br.*/
-score           HARDTEC_SUBJECT82 15
+header          HARDTEC_FROM82 From =~ /.*renovacnh\.com\.br.*/
+score           HARDTEC_FROM82 15
 
-header          HARDTEC_SUBJECT83 From =~ /.*suacnhrenovada\.com\.br.*/
-score           HARDTEC_SUBJECT83 15
+header          HARDTEC_FROM83 From =~ /.*suacnhrenovada\.com\.br.*/
+score           HARDTEC_FROM83 15
 
-header          HARDTEC_SUBJECT84 From =~ /.*(cnh\-solucoes\-agora\.store|cnh\-suspensa\-cassada\.xyz).*/
-score           HARDTEC_SUBJECT84 15
+header          HARDTEC_FROM84 From =~ /.*(cnh\-solucoes\-agora\.store|cnh\-suspensa\-cassada\.xyz).*/
+score           HARDTEC_FROM84 15
 
-header          HARDTEC_SUBJECT85 From =~ /.*comprerapidonanet\.com\.br.*/
-score           HARDTEC_SUBJECT85 15
+header          HARDTEC_FROM85 From =~ /.*comprerapidonanet\.com\.br.*/
+score           HARDTEC_FROM85 15
 
-header          HARDTEC_SUBJECT86 From =~ /.*cupons\-web\.com\.br.*/
-score           HARDTEC_SUBJECT86 15
+header          HARDTEC_FROM86 From =~ /.*cupons\-web\.com\.br.*/
+score           HARDTEC_FROM86 15
 
-header          HARDTEC_SUBJECT87 From =~ /.*\.email/
-score           HARDTEC_SUBJECT87 15
+header          HARDTEC_FROM87 From =~ /.*\.email/
+score           HARDTEC_FROM87 15
 
-header          HARDTEC_SUBJECT88 From =~ /.*email\-da\-oferta\.com\.br.*/
-score           HARDTEC_SUBJECT88 15
+header          HARDTEC_FROM88 From =~ /.*email\-da\-oferta\.com\.br.*/
+score           HARDTEC_FROM88 15
 
-header          HARDTEC_SUBJECT89 From =~ /.*horadeaproveitar\.com.*/
-score           HARDTEC_SUBJECT89 15
+header          HARDTEC_FROM89 From =~ /.*horadeaproveitar\.com.*/
+score           HARDTEC_FROM89 15
 
-header          HARDTEC_SUBJECT90 From =~ /.*suacnhrenovada\.com\.br.*/
-score           HARDTEC_SUBJECT90 15
+header          HARDTEC_FROM90 From =~ /.*suacnhrenovada\.com\.br.*/
+score           HARDTEC_FROM90 15
 
-header          HARDTEC_SUBJECT91 From =~ /.*promocaoemail\.com.*/
-score           HARDTEC_SUBJECT91 15
+header          HARDTEC_FROM91 From =~ /.*promocaoemail\.com.*/
+score           HARDTEC_FROM91 15
 
-header          HARDTEC_SUBJECT92 From =~ /.*resolvecnhdentrodalei\.com\.br.*/
-score           HARDTEC_SUBJECT92 15
+header          HARDTEC_FROM92 From =~ /.*resolvecnhdentrodalei\.com\.br.*/
+score           HARDTEC_FROM92 15
 
-header          HARDTEC_SUBJECT93 From =~ /.*ofertas\-(descontos|otimas)\.info.*/
-score           HARDTEC_SUBJECT93 15
+header          HARDTEC_FROM93 From =~ /.*ofertas\-(descontos|otimas)\.info.*/
+score           HARDTEC_FROM93 15
 
-header          HARDTEC_SUBJECT94 From =~ /.*supernetshoppingb\.com\.br.*/
-score           HARDTEC_SUBJECT94 15 
+header          HARDTEC_FROM94 From =~ /.*supernetshoppingb\.com\.br.*/
+score           HARDTEC_FROM94 15 
 
-header          HARDTEC_SUBJECT95 From =~ /.*umasuperoferta\.com\.br.*/
-score           HARDTEC_SUBJECT95 15
+header          HARDTEC_FROM95 From =~ /.*umasuperoferta\.com\.br.*/
+score           HARDTEC_FROM95 15
 
-header          HARDTEC_SUBJECT96 From =~ /.*vendasmagicas\.com\.br.*/
-score           HARDTEC_SUBJECT96 15 
+header          HARDTEC_FROM96 From =~ /.*vendasmagicas\.com\.br.*/
+score           HARDTEC_FROM96 15 
 
-header          HARDTEC_SUBJECT97 From =~ /.*cnh\-cassada\-suspensa\.xyz.*/
-score           HARDTEC_SUBJECT97 15
+header          HARDTEC_FROM97 From =~ /.*cnh\-cassada\-suspensa\.xyz.*/
+score           HARDTEC_FROM97 15
 
-header          HARDTEC_SUBJECT98 From =~ /.*precobaixoagorab\.com\.br.*/
-score           HARDTEC_SUBJECT98 15
+header          HARDTEC_FROM98 From =~ /.*precobaixoagorab\.com\.br.*/
+score           HARDTEC_FROM98 15
 
-header          HARDTEC_SUBJECT99 From =~ /.*resolvecnhdentrodalei\.com\.br.*/
-score           HARDTEC_SUBJECT99 15
+header          HARDTEC_FROM99 From =~ /.*resolvecnhdentrodalei\.com\.br.*/
+score           HARDTEC_FROM99 15
 
-header          HARDTEC_SUBJECT100 From =~ /.*supernovember\.com.*/
-score           HARDTEC_SUBJECT100 15
+header          HARDTEC_FROM100 From =~ /.*supernovember\.com.*/
+score           HARDTEC_FROM100 15
 
-header          HARDTEC_SUBJECT101 From =~ /.*diadecomp\.com.*/
-score           HARDTEC_SUBJECT101 15
+header          HARDTEC_FROM101 From =~ /.*diadecomp\.com.*/
+score           HARDTEC_FROM101 15
 
-header          HARDTEC_SUBJECT102 From =~ /.*novemberview\.com\.br.*/
-score           HARDTEC_SUBJECT102 15
+header          HARDTEC_FROM102 From =~ /.*novemberview\.com\.br.*/
+score           HARDTEC_FROM102 15
 
-header          HARDTEC_SUBJECT103 From =~ /.*vinotecasuper\.com.*/
-score           HARDTEC_SUBJECT103 15
+header          HARDTEC_FROM103 From =~ /.*vinotecasuper\.com.*/
+score           HARDTEC_FROM103 15
 
-header          HARDTEC_SUBJECT104 From =~ /.*ciavinus\.com.*/
-score           HARDTEC_SUBJECT104 15
+header          HARDTEC_FROM104 From =~ /.*ciavinus\.com.*/
+score           HARDTEC_FROM104 15
 
-header          HARDTEC_SUBJECT105 From =~ /.*compavinus\.com.*/
-score           HARDTEC_SUBJECT105 15
+header          HARDTEC_FROM105 From =~ /.*compavinus\.com.*/
+score           HARDTEC_FROM105 15
 
-header          HARDTEC_SUBJECT106 From =~ /.*bravino\.com\.br.*/
-score           HARDTEC_SUBJECT106 15
+header          HARDTEC_FROM106 From =~ /.*bravino\.com\.br.*/
+score           HARDTEC_FROM106 15
 
-header          HARDTEC_SUBJECT107 From =~ /.*modanew5\.com\.br.*/
-score           HARDTEC_SUBJECT107 15
+header          HARDTEC_FROM107 From =~ /.*modanew5\.com\.br.*/
+score           HARDTEC_FROM107 15
 
-header          HARDTEC_SUBJECT108 From =~ /.*newsuper[0123456789]\.com\.br.*/
-score           HARDTEC_SUBJECT108 15
+header          HARDTEC_FROM108 From =~ /.*newsuper[0123456789]\.com\.br.*/
+score           HARDTEC_FROM108 15
 
-header          HARDTEC_SUBJECT109 From =~ /.*negociomf\.com\.br.*/
-score           HARDTEC_SUBJECT109 15
+header          HARDTEC_FROM109 From =~ /.*negociomf\.com\.br.*/
+score           HARDTEC_FROM109 15
 
-header          HARDTEC_SUBJECT110 From =~ /.*imprensarj\.com\.br.*/
-score           HARDTEC_SUBJECT110 15
+header          HARDTEC_FROM110 From =~ /.*imprensarj\.com\.br.*/
+score           HARDTEC_FROM110 15
 
-header          HARDTEC_SUBJECT111 From =~ /.*telenoticia\.com\.br.*/
-score           HARDTEC_SUBJECT111 15
+header          HARDTEC_FROM111 From =~ /.*telenoticia\.com\.br.*/
+score           HARDTEC_FROM111 15
 
-header          HARDTEC_SUBJECT112 From =~ /.*\@.*\.london.*/
-score           HARDTEC_SUBJECT112 15
+header          HARDTEC_FROM112 From =~ /.*\@.*\.london.*/
+score           HARDTEC_FROM112 15
 
-header          HARDTEC_SUBJECT113 From =~ /.*\.hostwindsdns\.com.*/
-score           HARDTEC_SUBJECT113 15
+header          HARDTEC_FROM113 From =~ /.*\.hostwindsdns\.com.*/
+score           HARDTEC_FROM113 15
 
-header          HARDTEC_SUBJECT114 From =~ /.*\@.*\.actor.*/
-score           HARDTEC_SUBJECT114 15
+header          HARDTEC_FROM114 From =~ /.*\@.*\.actor.*/
+score           HARDTEC_FROM114 15
 
-header          HARDTEC_SUBJECT115 From =~ /.*\.regruhosting\.ru.*/
-score           HARDTEC_SUBJECT115 15
+header          HARDTEC_FROM115 From =~ /.*\.regruhosting\.ru.*/
+score           HARDTEC_FROM115 15
 
-header          HARDTEC_SUBJECT116 From =~ /.*comprerapidonanet\.online.*/
-score           HARDTEC_SUBJECT116 15
+header          HARDTEC_FROM116 From =~ /.*comprerapidonanet\.online.*/
+score           HARDTEC_FROM116 15
 
-header          HARDTEC_SUBJECT117 From =~ /.*economiadeverdade\.info.*/
-score           HARDTEC_SUBJECT117 15
+header          HARDTEC_FROM117 From =~ /.*economiadeverdade\.info.*/
+score           HARDTEC_FROM117 15
 
-header          HARDTEC_SUBJECT118 From =~ /.*horadeaproveitar\.com\.br.*/
-score           HARDTEC_SUBJECT118 15
+header          HARDTEC_FROM118 From =~ /.*horadeaproveitar\.com\.br.*/
+score           HARDTEC_FROM118 15
 
-header          HARDTEC_SUBJECT119 From =~ /.*\@.*\.best.*/
-score           HARDTEC_SUBJECT119 15
+header          HARDTEC_FROM119 From =~ /.*\@.*\.best.*/
+score           HARDTEC_FROM119 15
 
-header          HARDTEC_SUBJECT120 From =~ /.*melhores\-dicas\-por\-email\.store.*/
-score           HARDTEC_SUBJECT120 15
+header          HARDTEC_FROM120 From =~ /.*melhores\-dicas\-por\-email\.store.*/
+score           HARDTEC_FROM120 15
 
-header          HARDTEC_SUBJECT121 From =~ /.*emailcomasmelhoresofertas\.com.*/
-score           HARDTEC_SUBJECT121 15
+header          HARDTEC_FROM121 From =~ /.*emailcomasmelhoresofertas\.com.*/
+score           HARDTEC_FROM121 15
 
-header          HARDTEC_SUBJECT122 From =~ /super(netshopping|onlineshop|fridayhoy)\.(info|online|com|com\.br|br).*/
-score           HARDTEC_SUBJECT122 15
+header          HARDTEC_FROM122 From =~ /super(netshopping|onlineshop|fridayhoy)\.(info|online|com|com\.br|br).*/
+score           HARDTEC_FROM122 15
 
-header          HARDTEC_SUBJECT123 From =~ /.*pro(\-mobrasil|\-mo\-lista)\.store.*/
-score           HARDTEC_SUBJECT123 15
+header          HARDTEC_FROM123 From =~ /.*pro(\-mobrasil|\-mo\-lista)\.store.*/
+score           HARDTEC_FROM123 15
 
-header          HARDTEC_SUBJECT124 From =~ /.*umapromocaoespecial\.(info|com|com\.br|store).*/
-score           HARDTEC_SUBJECT124 15
+header          HARDTEC_FROM124 From =~ /.*umapromocaoespecial\.(info|com|com\.br|store).*/
+score           HARDTEC_FROM124 15
 
-header          HARDTEC_SUBJECT125 From =~ /.*a.markting.\.(com|online|site).*/
-score           HARDTEC_SUBJECT125 15
+header          HARDTEC_FROM125 From =~ /.*a.markting.\.(com|online|site).*/
+score           HARDTEC_FROM125 15
 
-header          HARDTEC_SUBJECT126 From =~ /.*acalvet\.com*/
-score           HARDTEC_SUBJECT126 15
+header          HARDTEC_FROM126 From =~ /.*acalvet\.com*/
+score           HARDTEC_FROM126 15
 
-header          HARDTEC_SUBJECT127 From =~ /.*\@.?.?(arjoflo(s|r)|ebr|wyr|fhd|mwqf?|tmir|promkt|x?pro|ack|marktings?|ikeecamping|alvet|bras|arelinsd|marktings?|msxls|\-newkt|ofertasmaior|promocoesclientes?|\-vendasmkt)\.(com|site|online|info)(\.br)?.*/
-score           HARDTEC_SUBJECT127 15
+header          HARDTEC_FROM127 From =~ /.*\@.?.?(arjoflo(s|r)|ebr|wyr|fhd|mwqf?|tmir|promkt|x?pro|ack|marktings?|ikeecamping|alvet|bras|arelinsd|marktings?|msxls|\-newkt|ofertasmaior|promocoesclientes?|\-vendasmkt)\.(com|site|online|info)(\.br)?.*/
+score           HARDTEC_FROM127 15
 
-header          HARDTEC_SUBJECT128 From =~ /.*colchaoecolchoes\.com(\.br)?.*/
-score           HARDTEC_SUBJECT128 15
+header          HARDTEC_FROM128 From =~ /.*colchaoecolchoes\.com(\.br)?.*/
+score           HARDTEC_FROM128 15
 
-header          HARDTEC_SUBJECT129 From =~ /.*(convites?|info)comendadoria2019\.com.*/
-score           HARDTEC_SUBJECT129 15
+header          HARDTEC_FROM129 From =~ /.*(convites?|info)comendadoria2019\.com.*/
+score           HARDTEC_FROM129 15
 
-header          HARDTEC_SUBJECT130 From =~ /.*cotar\-agora.*\.cam.*/
-score           HARDTEC_SUBJECT130 15
+header          HARDTEC_FROM130 From =~ /.*cotar\-agora.*\.cam.*/
+score           HARDTEC_FROM130 15
 
-header          HARDTEC_SUBJECT131 From =~ /.*desafio\.(poa|com)(\.br).*/
-score           HARDTEC_SUBJECT131 15
+header          HARDTEC_FROM131 From =~ /.*desafio\.(poa|com)(\.br).*/
+score           HARDTEC_FROM131 15
 
-header          HARDTEC_SUBJECT132 From =~ /.*dia(riovirtual|riodigital|doconsumidormaste)\.(com|cam).*/
-score           HARDTEC_SUBJECT132 15
+header          HARDTEC_FROM132 From =~ /.*dia(riovirtual|riodigital|doconsumidormaste)\.(com|cam).*/
+score           HARDTEC_FROM132 15
 
-header          HARDTEC_SUBJECT133 From =~ /.*dicassemanais\.com\.br.*/
-score           HARDTEC_SUBJECT133 15
+header          HARDTEC_FROM133 From =~ /.*dicassemanais\.com\.br.*/
+score           HARDTEC_FROM133 15
 
-header          HARDTEC_SUBJECT134 From =~ /.*.1000\.com\.br.*/
-score           HARDTEC_SUBJECT134 15
+header          HARDTEC_FROM134 From =~ /.*.1000\.com\.br.*/
+score           HARDTEC_FROM134 15
 
-header          HARDTEC_SUBJECT135 From =~ /.*informasemanal\.com\.br.*/
-score           HARDTEC_SUBJECT135 15
+header          HARDTEC_FROM135 From =~ /.*informasemanal\.com\.br.*/
+score           HARDTEC_FROM135 15
 
-header          HARDTEC_SUBJECT136 From =~ /.*lifesul.*\.com\.br.*/
-score           HARDTEC_SUBJECT136 15
+header          HARDTEC_FROM136 From =~ /.*lifesul.*\.com\.br.*/
+score           HARDTEC_FROM136 15
 
-header          HARDTEC_SUBJECT137 From =~ /.*malasdkk\.com.*/
-score           HARDTEC_SUBJECT137 15
+header          HARDTEC_FROM137 From =~ /.*malasdkk\.com.*/
+score           HARDTEC_FROM137 15
 
-header          HARDTEC_SUBJECT138 From =~ /.*megasemana.*/
-score           HARDTEC_SUBJECT138 15
+header          HARDTEC_FROM138 From =~ /.*megasemana.*/
+score           HARDTEC_FROM138 15
 
-header          HARDTEC_SUBJECT139 From =~ /.*multiplyhomes\.com\.br.*/
-score           HARDTEC_SUBJECT139 15
+header          HARDTEC_FROM139 From =~ /.*multiplyhomes\.com\.br.*/
+score           HARDTEC_FROM139 15
 
-header          HARDTEC_SUBJECT140 From =~ /.*mx2020\.info.*/
-score           HARDTEC_SUBJECT140 15
+header          HARDTEC_FROM140 From =~ /.*mx2020\.info.*/
+score           HARDTEC_FROM140 15
 
-header          HARDTEC_SUBJECT141 From =~ /.*nelcomponentes.*/
-score           HARDTEC_SUBJECT141 15
+header          HARDTEC_FROM141 From =~ /.*nelcomponentes.*/
+score           HARDTEC_FROM141 15
 
-header          HARDTEC_SUBJECT142 From =~ /.*noticiarj\.com\.br.*/
-score           HARDTEC_SUBJECT142 15
+header          HARDTEC_FROM142 From =~ /.*noticiarj\.com\.br.*/
+score           HARDTEC_FROM142 15
 
-header          HARDTEC_SUBJECT143 From =~ /.*noticiasnacionais\.com\.br.*/
-score           HARDTEC_SUBJECT143 15
+header          HARDTEC_FROM143 From =~ /.*noticiasnacionais\.com\.br.*/
+score           HARDTEC_FROM143 15
