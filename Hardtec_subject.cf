@@ -25,7 +25,7 @@ score           HARDTEC_SUBJECT8 15
 header          HARDTEC_SUBJECT9 Subject =~ /.*Sua Conta Foi Suspensa-ID.*/i
 score           HARDTEC_SUBJECT9 15
 
-header          HARDTEC_SUBJECT10 Subject =~ /.*Simule agora o valor para o seu Plano PME/Empresarial BRADESCO SA[Ú,u]DE.*/i
+header          HARDTEC_SUBJECT10 Subject =~ /.*Simule agora o valor para o seu Plano PME\/Empresarial BRADESCO SA[Ú,u]DE.*/i
 score           HARDTEC_SUBJECT10 15
 
 header          HARDTEC_SUBJECT11 Subject =~ /.*Simule agora, Desconto para Empresas. Reduç[ã,a]o de Car[ê,e]ncias, Desconto em Farm[á,a]cias e mais.*/i
@@ -54,3 +54,33 @@ score           HARDTEC_SUBJECT18 15
 
 header          HARDTEC_SUBJECT19 Subject =~ /.*Planos M[é,e]dicos Economicos para EMPRESAS\/PME.*/i
 score           HARDTEC_SUBJECT19 15
+
+header          HARDTEC_SUBJECT20 Subject =~ /.*Al[ô,o].*Empresarial.*/i
+score           HARDTEC_SUBJECT20 15
+
+header          HARDTEC_SUBJECT21 Subject =~ /.*.[0-9]{8}Anex.*/i
+score           HARDTEC_SUBJECT21 15
+
+header          HARDTEC_SUBJECT22 Subject =~ /.*.BRADESCO SA[Ú,u]DE.*/i
+score           HARDTEC_SUBJECT22 15
+
+header          HARDTEC_SUBJECT23 Subject =~ /.*Conta Pendente \| CHAMADO #[a-z0-9]{7}.*/i
+score           HARDTEC_SUBJECT23 15
+
+header          HARDTEC_SUBJECT24 Subject =~ /.*(?=.*m[é,e]dico).*(?=.*empresarial).*(?=Conv[e,ê]nio).*/i
+score           HARDTEC_SUBJECT24 15
+
+header          HARDTEC_SUBJECT25 Subject =~ /.*(?=.*(tributaria|perdas)).*.*(?=reduzir).*/i
+score           HARDTEC_SUBJECT25 5
+
+header          HARDTEC_SUBJECT26 Subject =~ /.*(?=.*BRASPRESS).*(?=.*(cota[ç,c][ã,a]o|Online)).*/i
+score           HARDTEC_SUBJECT26 15
+
+header          HARDTEC_SUBJECT27 Subject =~ /.*Aviso Final \| CHAMADO .[a-z0-9]{7}.*/i
+score           HARDTEC_SUBJECT27 15
+
+header          HARDTEC_SUBJECT28 Subject =~ /.*(?=.*economia).*(?=.*benef[i,í]cios).*/i
+score           HARDTEC_SUBJECT28 15
+
+header          HARDTEC_SUBJECT29 Subject =~ /.*.AT-N[a-z]:[0-9]{9}].*/i
+score           HARDTEC_SUBJECT29 15
