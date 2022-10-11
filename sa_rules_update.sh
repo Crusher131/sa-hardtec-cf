@@ -19,6 +19,7 @@
 # Variaveis
 rules='
 Hardtec_subject.cf
+Hardtec_body.cf
 Hardtec_from.cf
 '
 log="/var/log/spamrule.log"

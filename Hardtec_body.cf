@@ -1,0 +1,128 @@
+body     HARDTEC_BODY1        /divulgue\s+(?:sua|seu)/i
+score    HARDTEC_BODY1        20
+
+body     HARDTEC_BODY2       /aument[ae]\s+(?:seu){0,1}\s*p(?:e|ê|Ê|&ecirc\;)nis/i
+score    HARDTEC_BODY2       20
+
+body     HARDTEC_BODY3            /\b24\s*(?:horas|h|hr|hrs)\b/i
+score    HARDTEC_BODY3            2.0
+
+body     HARDTEC_BODY4         /\b(?:de|para)\s+sua\s+empresa\b/i
+score    HARDTEC_BODY4         10
+
+body     HARDTEC_BODY5      /trabalh(?:ar|e)\s+(?:de|em)\s+casa\b/i
+score    HARDTEC_BODY5      20
+
+body     HARDTEC_BODY6           /\baproveitem?\s+(?:nossa|es[st]a)\s+promo/i
+score    HARDTEC_BODY6           20
+
+body     HARDTEC_BODY7    /\baument(e|ar|ou|ando)\s+(?:a\s+sua|sua|o\s+seu|o|a){0,1}\s+(?:renda|ganho)|(?:renda|ganho|dinheiro)[\s\-]+extra\b/i
+score    HARDTEC_BODY7    20
+
+body     HARDTEC_BODY8         /\ba\s*partir\s+de\s+[a-z]{0,3}\$\s*[\d\.\,]+/i
+score    HARDTEC_BODY8         20
+
+body     HARDTEC_BODY9     /\bAg(?:..|e|ê|Ê|\&ecirc\;)ncia\s+de\s+(?:aproxima|modelos?)/i
+score    HARDTEC_BODY9     20
+
+body     HARDTEC_BODY10           /\be\s+confira/i
+score    HARDTEC_BODY10           5.0
+
+body     HARDTEC_BODY11      /ganhe dinheiro.{0,20}enviando e\-*mail/i
+score    HARDTEC_BODY11      20
+
+body     HARDTEC_BODY12    /meu nome.{0,10}inclu.{1,3}do.{0,15}sua lista de correspond.{1,3}ncia/i
+score    HARDTEC_BODY12    5.0
+
+body     HARDTEC_BODY13    /trabalhe (?:a partir )?(?:de|em) casa/i
+score    HARDTEC_BODY13    20
+
+body     HARDTEC_BODY14        /(?:mand|envi)(?:e|ou|aram|ar.{1,3}o)\s+(?:imediatamente\s*)?r\$\s*1[\,\.]00\b/i
+score    HARDTEC_BODY14        20
+
+body     HARDTEC_BODY15      /tenha seu site na internet/i
+score    HARDTEC_BODY15      20
+
+rawbody  HARDTEC_BODY16          /mala.{0,5}direta/i
+score    HARDTEC_BODY16          20
+
+rawbody  HARDTEC_BODY17         /mala.{0,5}direta\s+de\s+e\-*mail\'*s*/i
+score    HARDTEC_BODY17         20
+
+rawbody  HARDTEC_BODY18         /Anexo\sor.{1}amento/i
+score    HARDTEC_BODY18         4
+
+rawbody HARDTEC_BODY19 /free\smoney/i
+score   HARDTEC_BODY19 9
+
+rawbody HARDTEC_BODY20 /rolex/i
+score   HARDTEC_BODY20 9
+
+rawbody HARDTEC_BODY21 /regalis/i
+score   HARDTEC_BODY21 9
+
+rawbody HARDTEC_BODY22 /vicious/i
+score HARDTEC_BODY22 9
+
+rawbody HARDTEC_BODY23 /neurological/i
+score HARDTEC_BODY23 8
+
+rawbody HARDTEC_BODY24 /microshit/i
+score   HARDTEC_BODY24 9
+
+rawbody HARDTEC_BODY25 /freehand/i
+score   HARDTEC_BODY25 9
+
+rawbody HARDTEC_BODY26 /urology/i
+score   HARDTEC_BODY26 9
+
+rawbody HARDTEC_BODY27 /time\smagazine/i
+score   HARDTEC_BODY27 9
+
+rawbody HARDTEC_BODY28 /casino/i
+score   HARDTEC_BODY28 9
+
+rawbody HARDTEC_BODY29 /enlargement/i
+score   HARDTEC_BODY29 9
+
+rawbody HARDTEC_BODY30 /just\sone\sclick\!/i
+score   HARDTEC_BODY30 9
+
+rawbody HARDTEC_BODY31 /save\smoney/i
+score   HARDTEC_BODY31 30
+
+rawbody HARDTEC_BODY32 /oral\slozenge/i
+score   HARDTEC_BODY32 30
+
+rawbody HARDTEC_BODY33 /www\.informacoesonline\.com/i
+score   HARDTEC_BODY34 40
+
+rawbody HARDTEC_BODY35 /buy vicondin/i
+score   HARDTEC_BODY35 40
+
+rawbody HARDTEC_BODY36 /correios\.exe/i
+score   HARDTEC_BODY36 100
+
+rawbody HARDTEC_BODY37 /cartao\.exe/
+score   HARDTEC_BODY37 100
+
+rawbody HARDTEC_BODY38 /ohre\.lomnicezs\.cz/i
+score   HARDTEC_BODY38 30
+
+rawbody HARDTEC_BODY39 /removo\stoda\se\squalquer\snegativacao\sque\stenha\sem\sseu\snome/i
+score   HARDTEC_BODY39 30
+
+rawbody HARDTEC_BODY40 /(<!(--|[^>]*>).*){8}/
+score   HARDTEC_BODY40 3
+
+rawbody HARDTEC_BODY41 /^.*[a-z]<![a-z]*[0-9]*>[a-z]/
+score   HARDTEC_BODY41 3
+
+rawbody HARDTEC_BODY42 /^.*[a-z]<!--[a-z]*[0-9]*-->[a-z]/
+score   HARDTEC_BODY42 3
+
+rawbody HARDTEC_BODY43 /iframe src\=cid/
+score   HARDTEC_BODY43 200
+
+rawbody HARDTEC_BODY44 /iframe\ssrc\=cid/
+score   HARDTEC_BODY44 200
