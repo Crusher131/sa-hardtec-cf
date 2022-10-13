@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #
 # versao 1.0
 #
@@ -17,6 +17,7 @@
 #########################################################################################################################################
 
 # Variaveis
+downlink='https://raw.githubusercontent.com/Crusher131/sa-hardtec-cf/main/:'
 rules='
 Hardtec_subject.cf
 Hardtec_body.cf
@@ -101,7 +102,7 @@ Func.Init(){
     echo ""
     for rule in $rules; do
     echo "Iniciando download do arquivo de regras $rule"
-    wget $paramwget https://raw.githubusercontent.com/Crusher131/sa-hardtec-cf/main/$rule
+    wget $paramwget $downlink$rule
     echo "Download finalizado"
     done
     Func.Check

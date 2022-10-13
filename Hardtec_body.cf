@@ -126,3 +126,6 @@ score   HARDTEC_BODY43 200
 
 rawbody HARDTEC_BODY44 /iframe\ssrc\=cid/
 score   HARDTEC_BODY44 200
+
+rawbody HARDTEC_BODY45 /.*(?=(.*caixa|mailbox)).*(?=(.*cheia|.*full)).*/i
+score   HARDTEC_BODY45 200
