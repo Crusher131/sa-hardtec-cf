@@ -8,7 +8,7 @@ body     HARDTEC_BODY3            /\b24\s*(?:horas|h|hr|hrs)\b/i
 score    HARDTEC_BODY3            2.0
 
 body     HARDTEC_BODY4         /\b(?:de|para)\s+sua\s+empresa\b/i
-score    HARDTEC_BODY4         10
+score    HARDTEC_BODY4         3
 
 body     HARDTEC_BODY5      /trabalh(?:ar|e)\s+(?:de|em)\s+casa\b/i
 score    HARDTEC_BODY5      20
