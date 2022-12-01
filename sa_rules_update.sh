@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # versao 1.0
 #
@@ -10,14 +10,13 @@
 #
 # NOTA
 #   Testado e desenvolvido no Centos 6,7,8(stream)
-#   
+#
 #  DESENVOLVIDO_POR
 #  Jeferson Zacarias Sens       -        jefersonz.sens@gmail.com
 #
 #########################################################################################################################################
 
 # Variaveis
-downlink='https://raw.githubusercontent.com/Crusher131/sa-hardtec-cf/main/:'
 rules='
 Hardtec_subject.cf
 Hardtec_body.cf
@@ -32,7 +31,7 @@ Func.Log(){
     if [ -z "$1" ]; then
         cat
     else
-        printf '%s\n' "$@" 
+        printf '%s\n' "$@"
     fi | tee -a "$log"
 }
 
@@ -87,7 +86,7 @@ Func.Check() {
         echo "Arquivo $rule criado."
     fi
     done
-    Func.Comp 
+    Func.Comp
 }
 
 #Função Inicial!
@@ -97,12 +96,12 @@ Func.Init(){
     echo ''
     else
         yum install wget -y
-    fi    
+    fi
     echo "Iniciando atualização das regras anti-spam"
     echo ""
     for rule in $rules; do
     echo "Iniciando download do arquivo de regras $rule"
-    wget $paramwget $downlink$rule
+    wget $paramwget https://raw.githubusercontent.com/Crusher131/sa-hardtec-cf/main/$rule
     echo "Download finalizado"
     done
     Func.Check
