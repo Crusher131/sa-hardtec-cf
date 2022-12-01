@@ -427,3 +427,6 @@ score           HARDTEC_FROM142 15
 
 header          HARDTEC_FROM143 From =~ /.*noticiasnacionais\.com\.br.*/
 score           HARDTEC_FROM143 15
+
+header		HARDTEC_FROM144	FROM =~ /.*vipoffice.me.*/
+score		HARDTEC_FROM144 15
