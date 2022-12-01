@@ -129,3 +129,6 @@ score   HARDTEC_BODY44 200
 
 rawbody HARDTEC_BODY45 /.*(?=(.*caixa|mailbox)).*(?=(.*cheia|.*full)).*/i
 score   HARDTEC_BODY45 200
+
+rawbody HARDTEC_BODY50 /.*O meu endereço Bitcoin.*/i
+score   HARDTEC_BODY50 200
