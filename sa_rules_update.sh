@@ -109,26 +109,26 @@ Func.Init(){
 
 #Função do crontab
 Func.Cron(){
-    if [ -f "/scripts/SpamRule.sh" ]; then
+    if [ -f "/scripts/sa_rules_update.sh" ]; then
     echo ""
     else
-        touch /scripts/SpamRule.sh
+        touch /scripts/sa_rules_update.sh
     fi
-    wget $paramwget https://raw.githubusercontent.com/Crusher131/Hardtec.cf/master/SpamRule.sh
-    if  ! grep -F "30 * * * * root /scripts/SpamRule.sh >/dev/null 2>&1" /etc/crontab; then
-        echo "30 * * * * root /scripts/SpamRule.sh >/dev/null 2>&1" >> /etc/crontab
+    wget $paramwget https://raw.githubusercontent.com/Crusher131/sa-hardtec-cf/main/sa_rules_update.sh
+    if  ! grep -F "30 * * * * root /scripts/sa_rules_update.sh >/dev/null 2>&1" /etc/crontab; then
+        echo "30 * * * * root /scripts/sa_rules_update.sh >/dev/null 2>&1" >> /etc/crontab
 
     fi
-        if ! grep -F "30 20 * * * root /scripts/SpamRule.sh >/dev/null 2>&1" /etc/crontab; then
+        if ! grep -F "30 20 * * * root /scripts/sa_rules_update.sh >/dev/null 2>&1" /etc/crontab; then
             echo ""
         else
-            sed -i '/30 20 .* root \/scripts\/SpamRule.sh.*/d' /etc/crontab
+            sed -i '/30 20 .* root \/scripts\/sa_rules_update.sh.*/d' /etc/crontab
     fi
-    if  ! diff --brief /tmp/SpamRule.sh /scripts/SpamRule.sh >/dev/null; then
-        cp -f /tmp/SpamRule.sh /scripts/SpamRule.sh
-        chmod +x /scripts/SpamRule.sh
+    if  ! diff --brief /tmp/sa_rules_update.sh /scripts/sa_rules_update.sh >/dev/null; then
+        cp -f /tmp/sa_rules_update.sh /scripts/sa_rules_update.sh
+        chmod +x /scripts/sa_rules_update.sh
     fi
-    rm -rfv /tmp/SpamRule.sh
+    rm -rfv /tmp/sa_rules_update.sh
 Func.Init
 }
 
