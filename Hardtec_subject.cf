@@ -97,3 +97,5 @@ score           HARDTEC_SUBJECT32 7
 header          HARDTEC_SUBJECT33 Subject =~ /.*(felicidade|doce|feliz|saúde|saude).*/i
 score           HARDTEC_SUBJECT33 7
 
+header          HARDTEC_SUBJECT34 Subject =~ /(?=.*(e-mail|mail|email|e mail))(?=.*(limite))(?=.*(armazenamento))(?=.*(armazenamento)).*/i
+score           HARDTEC_SUBJECT34 15
