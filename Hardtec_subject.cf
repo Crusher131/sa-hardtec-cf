@@ -99,3 +99,9 @@ score           HARDTEC_SUBJECT33 7
 
 header          HARDTEC_SUBJECT34 Subject =~ /(?=.*(e-mail|mail|email|e mail))(?=.*(limite))(?=.*(armazenamento))(?=.*(armazenamento)).*/i
 score           HARDTEC_SUBJECT34 15
+
+header          HARDTEC_SUBJECT35 Subject =~ /.*Curso pr.tico online ensina como negociar para ganhar.*/i
+score           HARDTEC_SUBJECT35 15
+
+header          HARDTEC_SUBJECT36 Subject =~ /.*Curso .*Forma?. de Tributa[çc][aã]o Federal EaD.*/i
+score           HARDTEC_SUBJECT36 15

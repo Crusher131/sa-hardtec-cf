@@ -113,7 +113,7 @@ score       	HARDTEC_FROM37 15
 header      	HARDTEC_FROM38	From =~	/.*leads.*/
 score       	HARDTEC_FROM38	15
 
-header	        HARDTEC_FROM39 From =~ /.*coteplano.*/
+header	        HARDTEC_FROM39 From =~ /.*cote(mais)?plano.*/
 score	        HARDTEC_FROM39	15
 
 header          HARDTEC_FROM40 From =~ /.*\.mobi.*/
@@ -577,3 +577,15 @@ score           HARDTEC_FROM192 15
 
 header  		HARDTEC_FROM193	FROM =~ /.*vipoffice.me.*/
 score	    	HARDTEC_FROM193 15
+
+header          HARDTEC_FROM194 From =~ /.*ac4ehardware\.com.*/
+score           HARDTEC_FROM194 15
+
+header          HARDTEC_FROM195 From =~ /.*burnboostfhfd\.shop.*/
+score           HARDTEC_FROM195 15
+
+header          HARDTEC_FROM196 From =~ /.*coadeducacaoead\.com\.br.*/
+header          HARDTEC_FROM196 15
+
+header          HARDTEC_FROM197 From =~ /.*brsimulacoes\.live.*/
+score           HARDTEC_FROM197 15
