@@ -434,7 +434,7 @@ score           HARDTEC_FROM144 15
 header          HARDTEC_FROM145 From =~ /.*assistenciahospitalarbr\.com\.br.*/
 score           HARDTEC_FROM145 15
 
-header          HARDTEC_FROM146 From =~ /.*careseguros\.com\.br.*/
+header          HARDTEC_FROM146 From =~ /.*aramis\.com\.br.*/
 score           HARDTEC_FROM146 15
 
 header          HARDTEC_FROM147 From =~ /.*info\.sesconsc\.org\.br.*/

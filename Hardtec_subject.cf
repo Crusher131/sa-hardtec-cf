@@ -84,3 +84,16 @@ score           HARDTEC_SUBJECT28 15
 
 header          HARDTEC_SUBJECT29 Subject =~ /.*.AT-N[a-z]:[0-9]{9}].*/i
 score           HARDTEC_SUBJECT29 15
+
+header          HARDTEC_SUBJECT30 Subject =~ /(?=.*(ver))(?=.*(muito))(?=.*(look)).*/i
+score           HARDTEC_SUBJECT30 15
+
+header          HARDTEC_SUBJECT31 Subject =~ /(?=.*(sua primeira venda))(?=.*(saiba como realizar)).*/i
+score           HARDTEC_SUBJECT31 15
+
+header          HARDTEC_SUBJECT32 Subject =~ /.*vai (deixar|ficar) mais.*/
+score           HARDTEC_SUBJECT32 7
+
+header          HARDTEC_SUBJECT33 Subject =~ /.*(felicidade|doce|feliz|saúde|saude).*/i
+score           HARDTEC_SUBJECT33 7
+
