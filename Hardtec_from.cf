@@ -428,5 +428,152 @@ score           HARDTEC_FROM142 15
 header          HARDTEC_FROM143 From =~ /.*noticiasnacionais\.com\.br.*/
 score           HARDTEC_FROM143 15
 
-header		HARDTEC_FROM144	FROM =~ /.*vipoffice.me.*/
-score		HARDTEC_FROM144 15
+header          HARDTEC_FROM144 From =~ /.mkt\.portoseguro\.com\.br.*/
+score           HARDTEC_FROM144 15
+
+header          HARDTEC_FROM145 From =~ /.*assistenciahospitalarbr\.com\.br.*/
+score           HARDTEC_FROM145 15
+
+header          HARDTEC_FROM146 From =~ /.*careseguros\.com\.br.*/
+score           HARDTEC_FROM146 15
+
+header          HARDTEC_FROM147 From =~ /.*info\.sesconsc\.org\.br.*/
+score           HARDTEC_FROM147 15
+
+header          HARDTEC_FROM148 From =~ /.*mordomoseguros\.com\.br.*/
+score           HARDTEC_FROM148 15
+
+header          HARDTEC_FROM149 From =~ /.*negociosnortesul\.com\.br.*/
+score           HARDTEC_FROM149 15
+
+header          HARDTEC_FROM150 From =~ /.*conveniomordomo\.com\.br.*/
+score           HARDTEC_FROM150 15
+
+header          HARDTEC_FROM151 From =~ /.*mordomiaplanos\.com\.br.*/
+score           HARDTEC_FROM151 15
+
+header          HARDTEC_FROM152 From =~ /.*segurohospitalar\.com\.br.*/
+score           HARDTEC_FROM152 15
+
+header          HARDTEC_FROM153 From =~ /.*mbiz\.premiumdlv2\.com.*/
+score           HARDTEC_FROM153 15
+
+header          HARDTEC_FROM154 From =~ /.*novemai\.ml.*/
+score           HARDTEC_FROM154 15
+
+header          HARDTEC_FROM155 From =~ /.*campanhaplanosaude\.com\.br.*/
+score           HARDTEC_FROM155 15
+
+header          HARDTEC_FROM156 From =~ /.*samucave.*\.com.*/
+score           HARDTEC_FROM156 15
+
+header          HARDTEC_FROM157 From =~ /.*promovajato\.com\.br.*/
+score           HARDTEC_FROM157 15
+
+header          HARDTEC_FROM158 From =~ /.*mais(seguromedico|convenio)\.com\.br.*/
+score           HARDTEC_FROM158 15
+
+header          HARDTEC_FROM159 From =~ /.*assistenciahospitalarbr\.com\.br.*/
+score           HARDTEC_FROM159 15
+
+header          HARDTEC_FROM160 From =~ /.*careseguros\.com\.br.*/
+score           HARDTEC_FROM160 15
+
+header          HARDTEC_FROM161 From =~ /.*planosecondicoes\.me.*/
+score           HARDTEC_FROM161 15
+
+header          HARDTEC_FROM162 From =~ /.*planospravc\.art.*/
+score           HARDTEC_FROM162 15
+
+header          HARDTEC_FROM163 From =~ /.*viaestados\.com.*/
+score           HARDTEC_FROM163 15
+
+header          HARDTEC_FROM164 From =~ /.*ofertacoletiva\.com.*/
+score           HARDTEC_FROM164 15
+
+header          HARDTEC_FROM165 From =~ /.*agcocorp\.com.*/
+score           HARDTEC_FROM165 15
+
+header          HARDTEC_FROM166 From =~ /.*colorfulsunshine\.space.*/
+score           HARDTEC_FROM166 15
+
+header          HARDTEC_FROM167 From =~ /.*lidernegocios\.com\.br.*/
+score           HARDTEC_FROM167 15
+
+header          HARDTEC_FROM168 From =~ /.*shoppingdoscursos\.com.*/
+score           HARDTEC_FROM168 15
+
+header          HARDTEC_FROM169 From =~ /.*topoportunidades\.com\.br.*/
+score           HARDTEC_FROM169 15
+
+header          HARDTEC_FROM170 From =~ /.*comunicaseguro\.com\.br.*/
+score           HARDTEC_FROM170 15
+
+header          HARDTEC_FROM171 From =~ /.*seproteja\.art.*/
+score           HARDTEC_FROM171 15
+
+header          HARDTEC_FROM172 From =~ /.*vianextofertas\.com\.br.*/
+score           HARDTEC_FROM172 15
+
+header          HARDTEC_FROM173 From =~ /.*ajatofertas\.com\.br.*/
+score           HARDTEC_FROM173 15
+
+header          HARDTEC_FROM174 From =~ /.*standbygoogle\.com.*/
+score           HARDTEC_FROM174 15
+
+header          HARDTEC_FROM175 From =~ /.*ofertacomunica\.com\.br.*/
+score           HARDTEC_FROM175 15
+
+header          HARDTEC_FROM176 From =~ /.*vipnegociosbr\.com\.br.*/
+score           HARDTEC_FROM176 15
+
+header          HARDTEC_FROM177 From =~ /.*coadeducacaoead\.com\.br.*/
+score           HARDTEC_FROM177 15
+
+header          HARDTEC_FROM178 From =~ /.*planosecotacoes\.live.*/
+score           HARDTEC_FROM178 15
+
+header          HARDTEC_FROM179 From =~ /.*notamilofertas\.com\.br.*/
+score           HARDTEC_FROM179 15
+
+header          HARDTEC_FROM180 From =~ /.*sobonsnegocios\.com\.br.*/
+score           HARDTEC_FROM180 15
+
+header          HARDTEC_FROM181 From =~ /.*negocionext\.com\.br.*/
+score           HARDTEC_FROM181 15
+
+header          HARDTEC_FROM182 From =~ /.*suportapp\.art.*/
+score           HARDTEC_FROM182 15
+
+header          HARDTEC_FROM183 From =~ /.*comuniquese.*\.com\.br.*/
+score           HARDTEC_FROM183 15
+
+header          HARDTEC_FROM184 From =~ /.*campanhasegurosaude\.com\.br.*/
+score           HARDTEC_FROM184 15
+
+header          HARDTEC_FROM185 From =~ /.*multicampanha\.art.*/
+score           HARDTEC_FROM185 15
+
+header          HARDTEC_FROM186 From =~ /.*ofertasmestre\.com\.br.*/
+score           HARDTEC_FROM186 15
+
+header          HARDTEC_FROM187 From =~ /.*samer90\.com.*/
+score           HARDTEC_FROM187 15
+
+header          HARDTEC_FROM188 From =~ /.*campanhaseguromedico\.com\.br.*/
+score           HARDTEC_FROM188 15
+
+header          HARDTEC_FROM189 From =~ /.*arcapromove\.com\.br.*/
+score           HARDTEC_FROM189 15
+
+header          HARDTEC_FROM190 From =~ /.*cursos\.apevi\.org\.br.*/
+score           HARDTEC_FROM190 15
+
+header          HARDTEC_FROM191 From =~ /.*superioremail\.com\.br.*/
+score           HARDTEC_FROM191 15
+
+header          HARDTEC_FROM192 From =~ /.*promovalider\.com\.br.*/
+score           HARDTEC_FROM192 15
+
+header  		HARDTEC_FROM193	FROM =~ /.*vipoffice.me.*/
+score	    	HARDTEC_FROM193 15
