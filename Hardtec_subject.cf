@@ -91,7 +91,7 @@ score           HARDTEC_SUBJECT30 15
 header          HARDTEC_SUBJECT31 Subject =~ /(?=.*(sua primeira venda))(?=.*(saiba como realizar)).*/i
 score           HARDTEC_SUBJECT31 15
 
-header          HARDTEC_SUBJECT32 Subject =~ /.*vai (deixar|ficar) mais.*/
+header          HARDTEC_SUBJECT32 Subject =~ /.*vai( deixar| ficar) mais.*/
 score           HARDTEC_SUBJECT32 7
 
 header          HARDTEC_SUBJECT33 Subject =~ /.*(felicidade|doce|feliz|saúde|saude).*/i
