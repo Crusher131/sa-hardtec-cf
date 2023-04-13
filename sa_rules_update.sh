@@ -21,6 +21,7 @@ rules='
 Hardtec_subject.cf
 Hardtec_body.cf
 Hardtec_from.cf
+Hardtec_whitelist.cf
 '
 log="/var/log/spamrule.log"
 paramwget=" --directory-prefix=/tmp/ -q --no-check-certificate"
