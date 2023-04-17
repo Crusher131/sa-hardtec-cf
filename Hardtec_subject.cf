@@ -105,3 +105,15 @@ score           HARDTEC_SUBJECT35 15
 
 header          HARDTEC_SUBJECT36 Subject =~ /.*Curso .*Forma?. de Tributa[çc][aã]o Federal EaD.*/i
 score           HARDTEC_SUBJECT36 15
+
+header          HARDTEC_SUBJECT37 Subject =~ /.*C[âa]mera Veicular frente e verso.*/i
+score           HARDTEC_SUBJECT37 4
+
+header          HARDTEC_SUBJECT38 Subject =~ /.*Garanta mais assertividade.*/
+score           HARDTEC_SUBJECT38 10
+
+header          HARDTEC_SUBJECT39 Subject =~ /.*Quer descobrir como aumentar o (tamanho|engajamento dos funcion[áa]rios da).*/i
+score           HARDTEC_SUBJECT39 15
+
+header          HARDTEC_SUBJECT40 Subject =~ /.*bons motivos para ser um cliente Unimed.*/
+score           HARDTEC_SUBJECT40 50

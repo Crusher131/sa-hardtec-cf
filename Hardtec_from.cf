@@ -589,3 +589,24 @@ header          HARDTEC_FROM196 15
 
 header          HARDTEC_FROM197 From =~ /.*brsimulacoes\.live.*/
 score           HARDTEC_FROM197 15
+
+header          HARDTEC_FROM198 From =~ /.*queroeentrega\@gmail\.com.*/
+score           HARDTEC_FROM198 15
+
+header          HARDTEC_FROM199 From =~ /.*\@sv.*\.nfe\-.*.*\.com.*/
+score           HARDTEC_FROM199 15
+
+header          HARDTEC_FROM200 From =~ /.*lemeforense\.com\.br.*/
+score           HARDTEC_FROM200 15
+
+header          HARDTEC_FROM201 From =~ /.*labetempresas\.com\.br.*/
+score           HARDTEC_FROM201 15
+
+header          HARDTEC_FROM202 From =~ /.*hiperplanosbr\.com\.br.*/
+score           HARDTEC_FROM202 15
+
+header          HARDTEC_FROM203 From =~ /.*suafaturatim\.com\.br.*/
+score           HARDTEC_FROM203 15
+
+header          HARDTEC_FROM204 From =~ /.*centraldeapoioprofissional\.com.*/
+score           HARDTEC_FROM204 15
