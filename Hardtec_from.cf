@@ -610,3 +610,6 @@ score           HARDTEC_FROM203 15
 
 header          HARDTEC_FROM204 From =~ /.*centraldeapoioprofissional\.com.*/
 score           HARDTEC_FROM204 15
+
+header          HARDTEC_FROM205 From =~ /.*dzyon\.com\.br.*/
+score           HARDTEC_FROM205 15
