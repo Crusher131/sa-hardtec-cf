@@ -491,9 +491,6 @@ score           HARDTEC_FROM163 15
 header          HARDTEC_FROM164 From =~ /.*ofertacoletiva\.com.*/
 score           HARDTEC_FROM164 15
 
-header          HARDTEC_FROM165 From =~ /.*agcocorp\.com.*/
-score           HARDTEC_FROM165 15
-
 header          HARDTEC_FROM166 From =~ /.*colorfulsunshine\.space.*/
 score           HARDTEC_FROM166 15
 

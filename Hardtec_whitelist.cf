@@ -1,2 +1,5 @@
 header          HARDTEC_WHITELIST From =~ /.*postobrasilia\.net.*/
 score           HARDTEC_WHITELIST -150
+
+header          HARDTEC_WHITELIST1 From =~ /.*agcocorp\.com.*/
+score           HARDTEC_WHITELIST1 -150
