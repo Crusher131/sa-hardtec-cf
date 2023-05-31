@@ -135,3 +135,12 @@ score   HARDTEC_BODY50 200
 
 rawbody HARDTEC_BODY51 /.*Informamos que foi aberto um novo processo em seu nome no TRT.*/i
 score   HARDTEC_BODY51 200
+
+rawbody HARDTEC_BODY52 /Olá, .*Segue em anexo o aviso de férias assinado./i
+score   HARDTEC_BODY52 200
+
+rawbody HARDTEC_BODY53 /Boleto 2 Segunda via solicitada\.\nBom dia e otima semana\.\!/i
+score   HARDTEC_BODY53 200
+
+rawbody HARDTEC_BODY54 /.*https\:\/\/solucoesadministrativas.*/i
+score   HARDTEC_BODY54 200
