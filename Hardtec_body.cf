@@ -133,3 +133,5 @@ score   HARDTEC_BODY45 200
 rawbody HARDTEC_BODY50 /.*O meu endereço Bitcoin.*/i
 score   HARDTEC_BODY50 200
 
+rawbody HARDTEC_BODY51 /.*Informamos que foi aberto um novo processo em seu nome no TRT.*/i
+score   HARDTEC_BODY51 200
