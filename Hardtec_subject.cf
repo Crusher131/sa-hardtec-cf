@@ -117,3 +117,6 @@ score           HARDTEC_SUBJECT39 15
 
 header          HARDTEC_SUBJECT40 Subject =~ /.*bons motivos para ser um cliente Unimed.*/
 score           HARDTEC_SUBJECT40 50
+
+header          HARDTEC_SUBJECT41 Subject =~ /.*A sua conta foi pirateada\. Os seus dados sao roubados\. Saiba como recuperar o acesso.*/
+score           HARDTEC_SUBJECT41 300
