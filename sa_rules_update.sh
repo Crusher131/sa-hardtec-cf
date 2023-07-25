@@ -102,7 +102,8 @@ Func.Init(){
     echo ""
     for rule in $rules; do
     echo "Iniciando download do arquivo de regras $rule"
-    rm -f /tmp/$rule
+    wget $paramwget https://raw.githubusercontent.com/Crusher131/sa-hardtec-cf/main/$rule
+    echo "Download finalizado"
     done
     Func.Check
 }
@@ -131,7 +132,7 @@ Func.Cron(){
     rm -rfv /tmp/sa_rules_update.sh
     for rule in $rules; do
         echo "Removendo arquivo temporario $rule"
-        wget $paramwget https://raw.githubusercontent.com/Crusher131/sa-hardtec-cf/main/$rule
+        rm -f /tmp/$rule
         echo "Download finalizado"
     done
 Func.Init
