@@ -120,3 +120,12 @@ score           HARDTEC_SUBJECT40 50
 
 header          HARDTEC_SUBJECT41 Subject =~ /.*A sua conta foi pirateada\. Os seus dados sao roubados\. Saiba como recuperar o acesso.*/
 score           HARDTEC_SUBJECT41 300
+
+header          HARDTEC_SUBJECT42 Subject =~ /.*Make your indoor air cleaner and SAVE.*/
+score           HARDTEC_SUBJECT42 300
+
+header          HARDTEC_SUBJECT43 Subject =~ /.*Sua conta de e-mail excedeu.*/
+score           HARDTEC_SUBJECT43 300
+
+header          HARDTEC_SUBJECT44 Subject =~ /.*i recorded you.*/i
+score           HARDTEC_SUBJECT44 300

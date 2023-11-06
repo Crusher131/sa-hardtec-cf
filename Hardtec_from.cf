@@ -688,3 +688,6 @@ score           HARDTEC_FROM230 25
 
 header          HARDTEC_FROM231 From =~ /.*simplificacursos.*/
 score           HARDTEC_FROM231 25
+
+header          HARDTEC_FROM232 From =~ /.*dombrunootero.*/
+score           HARDTEC_FROM232 300
